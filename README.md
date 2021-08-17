@@ -1,5 +1,5 @@
 # page-fetcher
 
-# Use
+## Use
 
 `node fetcher.js websiteURL file location`
